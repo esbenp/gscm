@@ -1,0 +1,1 @@
+# A repository for tracking my global supply chain management readings
