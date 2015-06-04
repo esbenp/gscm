@@ -87,6 +87,8 @@
         * Summary
             * A solution that eliminates human error, but currently has high entry
             barriers
+    * Supply chain knowledge management
+        * The capture, storage, use and sharing of knowledge within the supply chain
 * Global standards
     * GS1 is a global standards organization
     * GTIN is the consumer barcode
