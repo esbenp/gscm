@@ -41,3 +41,4 @@
             * How much are customers willing to pay for this? Then work back (by deducting a target profit) to 
             how much it should cost the company (an allowed cost).
     * Cost, volume, profit (CVP) analysis
+    * Balanced score-card (BSC)
